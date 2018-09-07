@@ -38,6 +38,12 @@
               <p>Dashboard</p>
             </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#0">
+              <i class="material-icons">Table</i>
+              <p>Dashboard</p>
+            </a>
+          </li>
           <!-- your sidebar here -->
         </ul>
       </div>
