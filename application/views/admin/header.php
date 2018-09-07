@@ -40,8 +40,8 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#0">
-              <i class="material-icons">Table</i>
-              <p>Dashboard</p>
+              <i class="material-icons">table</i>
+              <p>table</p>
             </a>
           </li>
           <!-- your sidebar here -->
