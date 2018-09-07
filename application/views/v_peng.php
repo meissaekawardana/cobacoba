@@ -5,6 +5,13 @@
     <title></title>
   </head>
   <body>
-    <h1>ini bagian daspeng loh</h1>
+    <h1>ini bagian daspeng lochh</h1>
+    <table>
+      <tr>
+        <th>no</th>
+        <th>nama</th>
+        <th>nim</th>
+      </tr>
+    </table>
   </body>
 </html>
