@@ -12,6 +12,7 @@
         <th>nama</th>
         <th>nim</th>
         <th>kuota</th>
+        <th>nominal</th>
       </tr>
     </table>
   </body>
