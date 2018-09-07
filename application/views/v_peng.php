@@ -11,6 +11,7 @@
         <th>no</th>
         <th>nama</th>
         <th>nim</th>
+        <th>kuota</th>
       </tr>
     </table>
   </body>
